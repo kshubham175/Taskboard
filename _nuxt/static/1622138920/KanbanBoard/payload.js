@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/KanbanBoard", {data:[{}],fetch:{},mutations:[]});

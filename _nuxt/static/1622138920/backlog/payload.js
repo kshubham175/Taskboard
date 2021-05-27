@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/backlog", {data:[{}],fetch:{},mutations:[]});
